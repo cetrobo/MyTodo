@@ -11,7 +11,8 @@ angular.module('crud')
     $scope.update=function(){
       $scope.disabled= false;
         Todo.updateTodo($stateParams.id,$scope.todo).success(function(data){
-              $scope.disabled = true;
+             $scope.disabled= true;
+             $location.path("/");
         }).error(function(data){
               console.log(data);
         });
