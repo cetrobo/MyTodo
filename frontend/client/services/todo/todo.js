@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('crud')
-  .service('Todo', function ($http,$sails,$q) {
+  .service('Todo', function ($http) {
 
   		return{
 

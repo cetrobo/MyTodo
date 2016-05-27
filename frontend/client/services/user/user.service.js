@@ -9,7 +9,7 @@ angular.module('crud').service('User', function ($http) {
 
         getUserId : function(id){
 
-             return $http.get('https://sails-backoffice.herokuapp.com/api/user/'+id);
+            return $http.get('https://sails-backoffice.herokuapp.com/api/user/'+id);
         },
         getListeUser :function(){
             return $http.get('https://sails-backoffice.herokuapp.com/api/user');
