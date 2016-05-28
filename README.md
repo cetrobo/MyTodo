@@ -12,9 +12,7 @@ Get Started
 Installation
 ==================
 
-First of all you have to install `npm` and `nodejs` to you pc 
-
-also you need to install `bower`, `gulp` and  `sails` <br> These can be installed with following commands :
+First of all you have to install `npm` and `nodejs` to you pc also <br> you need to install `bower`, `gulp` and  `sails`  These can be installed with following commands :
 
 `sudo npm install bower -g`
 `sudo npm install gulp -g`
