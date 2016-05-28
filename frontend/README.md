@@ -11,17 +11,18 @@ To start developing in the project run:
 
 Todo
 ==================
-<tr>
-Signin
-	<td>check email if exite ,if not display message(this email doesn't match any account)</td>
-</tr>
-<tr>
-Signup
-	<td>add new input name user</td>
-	<td>compare password to confirmPassword</td>
-</tr>
-<tr>
-Profil
-	<td>change password for this profil</td>
-	<td>add avatar for this profil</td>
-</tr>
+
+<h2>Signin</h2>
+
+-check email if exite ,if not display message(this email doesn't match any account)
+
+<h2>Signup</h2>
+-add new input name user<br>
+-compare password to confirmPassword
+
+<h2>Profil</h2>
+-change password for this profil<br>
+-add avatar for this profil
+
+
+
