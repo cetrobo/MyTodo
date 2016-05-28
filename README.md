@@ -14,9 +14,7 @@ Installation
 
 First of all you have to install `npm` and `nodejs` to you pc also <br> you need to install `bower`, `gulp` and  `sails`  These can be installed with following commands :
 
-`sudo npm install bower -g`
-`sudo npm install gulp -g`
-`sudo npm install sails -g`
+`sudo npm install bower gulp sails -g`
 
 Running of project in developement environment
 ==================
