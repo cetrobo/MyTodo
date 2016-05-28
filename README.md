@@ -5,9 +5,9 @@
 
 Get Started
 ==================
-1.Clone the repository
+Clone the repository
 
-`https://github.com/cetrobo/monApp.git` 
+`git clone https://github.com/cetrobo/monApp.git` 
 
 Installation
 ==================
@@ -18,7 +18,7 @@ First of all you have to install `npm` and `nodejs` to you pc also <br> you need
 `sudo npm install gulp -g`
 `sudo npm install sails -g`
 
-Running of this project
+Running of project in developement environment
 ==================
 
 <h1>Backend</h1>
@@ -31,7 +31,9 @@ Running of this project
 
 
 `cd frontend`
-`gulp dist`
+`gulp `
+
+
 
 
 
