@@ -21,15 +21,13 @@ Running of project in developement environment
 
 <h1>Backend</h1>
 
-`cd backend `
-`sails lift`
+`cd backend && sails lift`
 
 
 <h1>Frontend</h1>
 
 
-`cd frontend`
-`gulp `
+`cd frontend && gulp `
 
 
 
